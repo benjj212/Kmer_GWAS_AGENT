@@ -128,8 +128,6 @@ Rscript $path_scripts/listing_kmer_fasta.R $path_GWAS
 
 # Retrieve the coordinates of the reads 
 
-
-
 for iso in CHE_96224 CHE_97251 IRN_GOR5 GRB_JIW2 KAZ_1b THUN12 ARG_4.2 JPN.Chikara
 do 
 # transforming the kmer list to proper fasta file 
