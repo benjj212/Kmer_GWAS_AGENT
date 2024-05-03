@@ -1,10 +1,6 @@
 # Kmer_GWAS_AGENT
 Script, Pipeline, and data used for the Kmer_GWAS_AGENT project
 
-Different branches for each of the figures.
-
-The path needs to be adjusted and the data downloaded for each R script. 
-
 ### Kmer_GWAS_pipeline
 File Kmer_GWAS.sh
 #### Additional Rscript used in the Kmer_GWAS.sh
@@ -17,3 +13,9 @@ https://benjiapp.shinyapps.io/Manhattan_plot/
 
 Map_plot_pheno
 https://benjiapp.shinyapps.io/Map_agent_pheno/ 
+
+### Figures
+
+Different branches for each of the figures.
+
+The path needs to be adjusted and the data downloaded for each R script. 
