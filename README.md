@@ -14,6 +14,8 @@ https://benjiapp.shinyapps.io/Manhattan_plot/
 Map_plot_pheno
 https://benjiapp.shinyapps.io/Map_agent_pheno/ 
 
+Data and scripts for each shiny app can be found in different branches 
+
 ### Figures
 
 Different branches for each of the figures.
