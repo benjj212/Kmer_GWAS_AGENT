@@ -14,6 +14,9 @@ https://benjiapp.shinyapps.io/Manhattan_plot/
 Map_plot_pheno
 https://benjiapp.shinyapps.io/Map_agent_pheno/ 
 
+LD_plot 
+https://benjiapp.shinyapps.io/LD_plot/
+
 Data and scripts for each shiny app can be found in different branches 
 
 ### Figures
