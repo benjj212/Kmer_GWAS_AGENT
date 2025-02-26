@@ -8,6 +8,8 @@ creating_link_path_folder.R
 listing_kmer_fasta.R
 
 ### Shiny app to display data from the Kmer_GWAS project 
+Full script and data used for the Shiny app are also uploaded on Zenodo (DOI as followed)
+
 Manhattan_plot: 
 https://benjiapp.shinyapps.io/Manhattan_plot/
 
@@ -23,8 +25,6 @@ https://benjiapp.shinyapps.io/LD_plot/
 
 https://doi.org/10.5281/zenodo.14930492
 
-
-Data and scripts for each shiny app can be found in different branches 
 
 ### Figures
 
