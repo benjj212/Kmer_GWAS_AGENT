@@ -10,12 +10,16 @@ listing_kmer_fasta.R
 ### Shiny app to display data from the Kmer_GWAS project 
 Manhattan_plot: 
 https://benjiapp.shinyapps.io/Manhattan_plot/
+https://doi.org/10.5281/zenodo.14930521
 
 Map_plot_pheno
 https://benjiapp.shinyapps.io/Map_agent_pheno/ 
+https://doi.org/10.5281/zenodo.14930536
 
 LD_plot 
 https://benjiapp.shinyapps.io/LD_plot/
+https://doi.org/10.5281/zenodo.14930492
+
 
 Data and scripts for each shiny app can be found in different branches 
 
